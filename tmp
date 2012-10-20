@@ -1,3 +1,13 @@
+Quick setup — if you've done this kind of thing before
+or
+
+    HTTP - https://github.com/oldgeeksguide/testing.git
+        SSH - git@github.com:oldgeeksguide/testing.git
+
+        We recommend that every repository has a README, LICENSE, and .gitignore
+        Create a new repository on the command line
+
+
 Uploading existing repo to git:
 
 touch README.md
