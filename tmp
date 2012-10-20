@@ -1,0 +1,9 @@
+Uploading existing repo to git:
+
+touch README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/oldgeeksguide/testing.git
+git push -u origin master
+
